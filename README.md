@@ -4,7 +4,7 @@
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <li>🔭 I’m currently focusing on building more with <strong>Next.js</strong>.</li>
-<li>💬 Ping me about anything <strong>react</strong> and <strong>Frontend</strong> related stuff.</li>
+<li>💬 Ping me about anything <strong>React</strong> and <strong>Frontend</strong> related stuff.</li>
 <li>🧐 Learning <strong>.Net</strong>, <strong>C#</strong> to use at backend and planing learning <strong>React Native</strong> to get into mobile development. Learning never stops 💪</li>
 </ul>  
 <h2>🚀 Some Tools I Use</h2>
