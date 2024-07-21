@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hey 👋, I'm Dogus
+I'm a Frontend Developer exploring React, JavaScript, TypeScript, Next.js, and a bit of Node.js. I'm passionate about open source and enjoy experimenting with new ideas.
 <!--
 **DogusM/DogusM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
