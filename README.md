@@ -1,6 +1,6 @@
 <h2>Hey 👋, I'm Dogus</a></h2>
 <p> I'm a Frontend Developer exploring React, JavaScript, TypeScript, Next.js, and a bit of Node.js. I'm passionate about open source and enjoy experimenting with new ideas.</p>
-<p><a href="www.linkedin.com/in/dm0101"><img src="https://img.shields.io/badge/-stanleylim.me-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://stanleylim.me" alt="Website Badge"></a> <a href="https://medium.com/@serbis"><img src="https://img.shields.io/badge/-@serbis-14c767?style=flat-square&amp;labelColor=14c767&amp;logo=Medium&amp;link=https://medium.com/@serbis" alt="Medium Badge"></a> </p>
+<p>  <a href="www.linkedin.com/in/dm0101"><img src="https://img.shields.io/badge/-@Dogus-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=www.linkedin.com/in/dm0101" alt="LinkedIn Badge"></a> </p>
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <li>🔭 I’m currently focusing on building more with <strong>Next.js</strong>.</li>
