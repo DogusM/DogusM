@@ -5,7 +5,7 @@
 <ul>
 <li>🔭 I’m currently focusing on building more with <strong>Next.js</strong>.</li>
 <li>💬 Ping me about anything <strong>React</strong> and <strong>Frontend</strong> related stuff.</li>
-<li>🧐 Learning <strong>VueJs</strong> and <strong>NestJs</strong> to use at backend and planing learning <strong>React Native</strong> to get into mobile development. Learning never stops 💪</li>
+<li>🧐 Learning <strong>VueJs</strong> and <strong>NestJs</strong> to use at backend and planing learning <strong>React Native</strong> to get into mobile development. Learning never stops💪</li>
 </ul>  
 <h2>🚀 Some Tools I Use</h2>
 <p align="left">
